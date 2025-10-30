@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<head>
+
+  <title>my TABLE<</title>
+</head>
+<body>
+  <heading>student name List</heading>
+  <table border="1px">
+   <tr>
+    <th>Id</th>
+    <th>Name</th>
+    <th></th>
+    <th>Name</th>
+   </tr>
+   <tr>
+     <td>1</td>
+     <td>Anu</td>
+   </tr>
+   <tr>
+     <td>2</td>
+     <td>priya</td>
+   </tr>
+  </table>
+</body>
+</html>
